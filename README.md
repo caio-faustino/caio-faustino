@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ## Hi there 👋
 My name's <strong> Caio Faustino !</strong>
 
