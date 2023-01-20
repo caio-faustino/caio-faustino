@@ -24,4 +24,8 @@ My name's <strong> Caio Faustino !</strong>
 ---
 
 ## ⭐ About me on GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caio-faustin&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=caio-faustino&theme=default&show_icons=true)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caio-faustino&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+---
