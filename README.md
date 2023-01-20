@@ -4,7 +4,6 @@ My name's <strong> Caio Faustino !</strong>
 - 🔭 I’m currently working as student at Trybe
 - 🌱 I’m currently learning front-end
 - 👯 I’m looking to collaborate as Jr. Developer on market
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: caioexfaustino.pro@gmail.com
 - 📫 How to reach me: https://www.linkedin.com/in/caio-faustino17/
 - ⚡ Fun fact: I'm like Zorojuro
