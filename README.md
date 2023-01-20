@@ -24,4 +24,4 @@ My name's <strong> Caio Faustino !</strong>
 ---
 
 ## ⭐ About me on GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caio-faustino&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caio-faustin&show_icons=true)
